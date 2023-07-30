@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import random
 
-TOKEN = 'MTEzNDUwMTE1MTQ0NjkzMzUwNA.GqjlSA.jN1CHplA6Qn66KlCwo7YAxuL9zGcl27BlFEoI0'
+TOKEN = ''
 prefix = "$"
 
 client = client = commands.Bot(command_prefix = prefix,intents=discord.Intents.all())
